@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Having worked with `Array`s of `Array`s, you're going to be pleasantly
+Having worked with `Array`s of `Array`s, you're going to be pleasantly 
 surprised that most of the syntax works exactly the same between "arrays of
 arrays" to "arrays of hashes."
 
